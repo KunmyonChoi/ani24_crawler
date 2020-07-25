@@ -1,0 +1,28 @@
+{
+  "name": "ani24_crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KunmyonChoi/ani24_crawler.git"
+  },
+  "keywords": [
+    "crawler"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KunmyonChoi/ani24_crawler/issues"
+  },
+  "homepage": "https://github.com/KunmyonChoi/ani24_crawler#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "querystring": "^0.2.0",
+    "yargs": "^15.4.1"
+  }
+}
