@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/KunmyonChoi/ani24_crawler#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.3",
     "querystring": "^0.2.0",
     "yargs": "^15.4.1"
